@@ -1,0 +1,16 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+
+  .time {
+    color: #fff;
+    background: #0275d8;
+    padding: 2px 4px;
+    font-size: 12px;
+    border-radius: 12px;
+  }
+
+  &:hover .time {
+    background: #014c8c;
+  }
+}
