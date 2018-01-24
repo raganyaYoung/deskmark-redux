@@ -1,7 +1,7 @@
 {
   "name": "deskmark",
   "version": "1.0.0",
-  "description": "an web markdown writer an docs manager  build on React&Redux.",
+  "description": "an web markdown writer an docs manager and build on React&Redux.",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
